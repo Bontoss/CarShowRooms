@@ -1,0 +1,69 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch with Arguments Prompt",
+      "request": "launch",
+      "mainClass": "",
+      "args": "${command:SpecifyProgramArgs}"
+    },
+    {
+      "type": "java",
+      "name": "Launch External Terminal",
+      "request": "launch",
+      "console": "externalTerminal",
+      "mainClass": ""
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "request": "attach",
+      "name": "Attach by Process ID",
+      "processId": "${command:PickJavaProcess}"
+    },
+  {
+    "type": "java",
+    "name": "Attach to Remote Program",
+    "request": "attach",
+    "hostName": "<The host name or ip address of remote debuggee>",
+    "port": "<debug port of remote debuggee>"
+  },
+    
+
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": ""
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": false,
+      "cwd": "c:/Users/CairoLap/Desktop/BlackJack",
+      "environment": [],
+      "program": "c:/Users/CairoLap/Desktop/BlackJack/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

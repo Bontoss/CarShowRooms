@@ -1,0 +1,12 @@
+﻿  Customer.cpp
+C:\Users\CairoLap\source\repos\CarShowRooms Project\Customer.cpp(112,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CairoLap\source\repos\CarShowRooms Project\Customer.cpp(118,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CairoLap\source\repos\CarShowRooms Project\Customer.cpp(136,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CairoLap\source\repos\CarShowRooms Project\Customer.cpp(141,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CairoLap\source\repos\CarShowRooms Project\Customer.cpp(167,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CairoLap\source\repos\CarShowRooms Project\Customer.cpp(213,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CairoLap\source\repos\CarShowRooms Project\Customer.cpp(402,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CairoLap\source\repos\CarShowRooms Project\Customer.cpp(467,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CairoLap\source\repos\CarShowRooms Project\Customer.cpp(42,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CairoLap\source\repos\CarShowRooms Project\Customer.cpp(283): message : see reference to function template instantiation 'void Erase<Car>(std::vector<Car,std::allocator<Car>> &,int)' being compiled
+  CarShowRooms Project.vcxproj -> C:\Users\CairoLap\source\repos\CarShowRooms Project\Debug\CarShowRooms Project.exe

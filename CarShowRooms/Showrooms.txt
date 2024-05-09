@@ -1,0 +1,34 @@
+3
+1 Manga Cairo 01234567890
+3
+1 2022 850000 Germany Mercedes 0 28 5 2022 1
+2 2022 555000 china Dodge 1 3 6 2022 1
+3 2022 300000 china MG 1 28 5 2022 1
+
+1
+1 2023 800000 Germany BMW 1 5 6 2022 1
+
+
+
+2 FCIS Abbasia 011557799
+5
+1 2022 350000 korea Hyundai 1 28 5 2022 1
+2 2021 400000 Germany Nissan 1 28 5 2022 1
+3 2022 570000 Germany VolksWagen 1 28 5 2022 1
+4 2022 430000 china Opel 1 28 5 2022 1
+5 2021 250000 china Volvo 0 5 6 2022 1
+
+0
+
+
+
+3 ELKersh alfmaskan 01098765432
+3
+1 2023 9000000 America Tesla 1 28 5 2022 1
+2 2023 6500000 Korea Porche 0 28 5 2022 1
+3 2022 3400000 Korea Lamborghini 0 5 6 2022 0
+
+0
+
+
+

@@ -1,0 +1,22 @@
+3
+1 Elnasr Cairo 01257924
+3
+1 Cleaning 250
+2 Tires 780
+3 Repairing 460
+
+
+2 FCIS Cairo 015987654
+3
+1 Cleaning 300
+2 Repairing 550
+3 Tires 800
+
+
+3 ElEtihad Alexandria 0125678932
+3
+1 Cleaning 300
+2 Repairing 650
+3 Tires 750
+
+
